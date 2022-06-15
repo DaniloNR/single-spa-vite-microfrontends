@@ -1,0 +1,12 @@
+[submodule "root-vite-single-spa"]
+	path = root-vite-single-spa
+	url = git@github.com:DaniloNR/root-vite-single-spa.git
+[submodule "react-vite-single-spa"]
+	path = react-vite-single-spa
+	url = git@github.com:DaniloNR/react-vite-single-spa.git
+[submodule "vue-vite-single-spa-1"]
+	path = vue-vite-single-spa-1
+	url = git@github.com:DaniloNR/vue-vite-single-spa-1.git
+[submodule "vue-vite-single-spa-2"]
+	path = vue-vite-single-spa-2
+	url = git@github.com:DaniloNR/vue-vite-single-spa-2.git
